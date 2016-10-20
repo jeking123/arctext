@@ -2,7 +2,10 @@
 YOUR STYLES
 *******************/
 
-
+h1 {
+    font-size: 6em;
+    text-align: center;
+}
 
 
 /********************
